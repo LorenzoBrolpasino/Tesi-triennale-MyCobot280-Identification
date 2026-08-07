@@ -1,0 +1,4 @@
+profile_type,modello,n_movimenti,media,mediana,dev_standard,minimo,q1,q3,massimo
+trapezoidal,trapezoidale,132,2.39756,2.36226,0.856613,0.493044,1.78629,2.9153,5.17635
+asymmetric_trapezoidal,trapezoidale asimmetrico,132,1.79933,1.72492,0.643572,0.466252,1.33205,2.28523,3.83896
+quintic,quintico,132,60.9745,61.4856,8.4938,51.4704,54.1166,63.0627,87.5908

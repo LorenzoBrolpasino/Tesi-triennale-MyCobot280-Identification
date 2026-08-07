@@ -1,0 +1,7 @@
+ambito,profile_type,modello,n_vittorie,n_movimenti,campioni_mediani,delta_aic_mediano
+finestra di moto,trapezoidal,trapezoidale,10,132,59,
+finestra di moto,asymmetric_trapezoidal,trapezoidale asimmetrico,122,132,59,-29.9021
+finestra di moto,quintic,quintico,0,132,59,
+segmento intero,trapezoidal,trapezoidale,6,132,238,
+segmento intero,asymmetric_trapezoidal,trapezoidale asimmetrico,126,132,238,-106.502
+segmento intero,quintic,quintico,0,132,238,

@@ -1,0 +1,11 @@
+modello,grandezza,relazione col comando,valore,qualita',n
+trapezoidale,vmax,lineare,0.02638 * cmd -0.00188 rad/s,R2 = 0.99965,132
+trapezoidale,amax,costante,7.974 rad/s^2 (mediana),dev.std 0.753 (9.4%),86
+trapezoidale,residuo del fit,-,1.72 mrad (mediano),1.23 quanti di encoder,132
+asimmetrico,vmax,lineare,0.02638 * cmd -0.00186 rad/s,R2 = 0.99965,132
+asimmetrico,a_acc,costante,8.701 rad/s^2 (mediana),dev.std 0.539 (6.2%),76
+asimmetrico,a_dec,costante,7.522 rad/s^2 (mediana),dev.std 0.442 (5.9%),76
+asimmetrico,rapporto a_acc/a_dec,costante,8.701 / 7.522 = 1.1567,entrambe sui movimenti con la rampa di salita risolta,76
+asimmetrico,residuo del fit,-,1.35 mrad (mediano),0.96 quanti di encoder,132
+quintico,t_move,iperbolica (lineare in 1/cmd),233.047 / cmd +0.300 s,R2 = 0.99814 contro 0.84325 in scala lineare,132
+quintico,residuo del fit,-,45.46 mrad (mediano),32.47 quanti di encoder,132

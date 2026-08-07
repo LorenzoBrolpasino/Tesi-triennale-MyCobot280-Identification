@@ -1,0 +1,7 @@
+caso,delta_q,profilo vero,profilo stimato,vmax vero,vmax stimata,err vmax %,amax vero,amax stimata,err amax %
+riferimento,2.5,trapezoidal,trapezoidal,1.5,1.5013,0.0884,3.0,2.9843,0.5248
+verso negativo,-2.5,trapezoidal,trapezoidal,1.5,1.4996,0.0234,3.0,3.006,0.1999
+"parametri reali, comando 50",4.16,trapezoidal,trapezoidal,1.318,1.3182,0.0168,5.81,5.8414,0.5404
+plateau lungo,4.0,trapezoidal,trapezoidal,1.0,1.0004,0.0372,4.0,3.977,0.574
+plateau corto,3.0,trapezoidal,trapezoidal,2.0,1.9999,0.0055,2.5,2.5032,0.1292
+spostamento ridotto,1.5,trapezoidal,trapezoidal,1.5,1.5014,0.0955,3.0,2.9622,1.2588

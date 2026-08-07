@@ -1,0 +1,4 @@
+profile_type,n_params,n_movimenti,n_convergenti,rmse_mediano,rmse_quanti_mediano,delta_aic_mediano,delta_bic_mediano,n_vittorie,n_vittorie_decisive,n_finestra_incompleta
+asymmetric_trapezoidal,4,132,132,0.00241489,1.72492,-29.9021,-27.6539,122,113,132
+trapezoidal,3,132,132,0.00330716,2.36226,0,0,10,0,0
+quintic,2,132,132,0.0860798,61.4856,385.559,383.481,0,0,132

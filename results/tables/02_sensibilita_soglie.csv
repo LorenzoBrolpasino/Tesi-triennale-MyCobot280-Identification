@@ -1,0 +1,5 @@
+soglia,valori_provati,intervallo,regime_sempre_rilevato,scarto_vmax_max_pct
+accel_threshold_ratio,7,0.1 - 0.5,True,0.0346
+max_gap_samples,6,0 - 8,True,0.0
+min_duration_ratio,6,0.02 - 0.3,True,0.0
+plateau_cv_max,5,0.05 - 0.6,True,0.0
